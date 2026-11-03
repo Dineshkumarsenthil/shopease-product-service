@@ -14,7 +14,7 @@ A simple Product Management microservice built with FastAPI and run inside Docke
 ```
 shopease-product-service/
 ├── app/
-│   ├── main.py                 # starts the app, registers routes, handles errors
+│   ├── main.py                 
 │   ├── routers/product_routes.py
 │   ├── schemas/product_schema.py
 │   ├── models/product_model.py
